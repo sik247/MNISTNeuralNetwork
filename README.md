@@ -42,3 +42,9 @@ After training, we evaluate the model's performance on the test dataset and prin
 Finally, we save the trained model to a file named 'cnn_model.h5' for future use.
 
 Follow the cnn.ipynb file to train your own CNN. 
+
+
+Credits
+https://www.tensorflow.org/tutorials/images/cnn
+https://www.youtube.com/watch?v=KuXjwB4LzSA
+
