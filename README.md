@@ -1,4 +1,4 @@
-# Convolutional NeuralNetwork
+# Convolutional NeuralNetwork using MNIST Data Set
 CNN(Convolutional Neural Network)
 
 Check this great explanation out: 
@@ -11,7 +11,9 @@ https://www.youtube.com/watch?v=KuXjwB4LzSA&t=550s
 
 Convolutional Neural Networks (CNNs) are inspired by the structure of neurons in the human brain responsible for processing visual information. They employ techniques to reduce the number of neurons while preserving spatial relationships within the data.
 
-In this project, we've implemented a CNN to work with the MNIST dataset, aiming to recognize handwritten digits and explore different approaches for improved performance.
+In this project, we've implemented a CNN to work with the MNIST dataset, aiming to recognize handwritten digits and explore different approaches for improved performance. 
+
+Using 10 Epochs as a standard base, we are able to achieve 99.25% accurcy in recognizing MNIST images. 
 
 **Data Preparation**
 
@@ -42,6 +44,8 @@ After training, we evaluate the model's performance on the test dataset and prin
 Finally, we save the trained model to a file named 'cnn_model.h5' for future use.
 
 Follow the cnn.ipynb file to train your own CNN. 
+
+
 
 
 Credits
